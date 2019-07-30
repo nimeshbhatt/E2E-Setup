@@ -1,4 +1,4 @@
-**Huddle Wrapper E2E Project Set Up**
+**E2E Project Set Up**
 
 Important points that need to keep in consideration:-
 
